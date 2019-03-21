@@ -64,10 +64,10 @@ html, body {
   padding-bottom: 50px;
 }
 #footer {
-   position: sticky;
+   position: absolute;
    width:100%;
    height:0px;   /* Height of the footer */
-   background:#ffffff;
+   background:#6cf;
    text-align: center;
 }
 h1 {
