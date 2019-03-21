@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-body {background-color: #F5FFFA;}
+/* body {background-color: #F5FFFA;}*/
 
 nav .navbar-brand
 {
@@ -63,8 +63,8 @@ html, body {
   padding: 20px;
   padding-bottom: 50px;
 }
-.footer {
-   position: fixed;
+footer {
+   position: absolute;
    bottom: 0;
    text-align: center;
 }
