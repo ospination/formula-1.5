@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-/*body {background-color: #F5FFFA;}*/
+body {background-color: #F5FFFA;}
 
 nav .navbar-brand
 {
