@@ -76,13 +76,13 @@ html, body {
 }
 h1 {
   font-family: "Impact";
-  font-style: oblique;
+  font-style: italic;
   color: #DC143C;
   text-align: center;
 }
 h2 {
   font-family: "Impact";
-    font-style: oblique;
+    font-style: italic;
   color: #DC143C;
   text-align: center;
 }
